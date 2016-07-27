@@ -1,0 +1,8 @@
+# exclude .DS_Store
+.DS_Store
+
+# exclude .git
+.git
+
+# exclude .RHistory
+.Rhistory
